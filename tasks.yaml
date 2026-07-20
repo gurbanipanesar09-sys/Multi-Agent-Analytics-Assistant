@@ -1,0 +1,37 @@
+profile_task:
+
+  description: >
+    Profile dataset
+
+  expected_output: >
+    Dataset summary
+
+
+
+quality_task:
+
+  description: >
+    Find data quality issues
+
+  expected_output: >
+    Missing values duplicates
+
+
+
+kpi_task:
+
+  description: >
+    Recommend KPIs
+
+  expected_output: >
+    KPI list
+
+
+
+ml_task:
+
+  description: >
+    Recommend ML use cases
+
+  expected_output: >
+    ML report
